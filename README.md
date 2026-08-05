@@ -42,5 +42,11 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stem is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/stem-ai_stock/
+StemAI (Stem AI SAS) is a Paris-based accelerator and early-stage investment program for founders
+building LLM-powered products — a $250,000 SAFE, $350,000 in partner cloud credits, advisor
+checkpoints, and a founder summit in Paris. It is a fund and program, not a software vendor: as of
+2026-08-05 it publishes no API, SDK, developer portal, or machine-readable specification.
+
+- Website: https://stemai.vc/
+- Apply: https://stemai.vc/apply
+- Secondary market listing: https://forgeglobal.com/stem-ai_stock/

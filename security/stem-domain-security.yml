@@ -1,0 +1,15 @@
+generated: '2026-08-05'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: stemai.vc
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Dec 17 23:59:59 2026 GMT
+  hsts: false
+domains:
+- domain: stemai.vc
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: false
