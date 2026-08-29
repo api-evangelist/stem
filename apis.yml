@@ -13,6 +13,17 @@ description: 'StemAI (Stem AI SAS) is a Paris-based accelerator and early-stage 
   (Forge, Hiive, EquityZen). It publishes no API, SDK, developer portal or machine-readable
   specification of any kind.'
 url: https://raw.githubusercontent.com/api-evangelist/stem/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://stemai.vc/icons/icon-512x512.png
 x-type: company
 x-source: harvest:secondary-market
