@@ -1,4 +1,4 @@
-# Stem
+# Stem AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,11 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-StemAI (Stem AI SAS) is a Paris-based accelerator and early-stage investment program for founders
-building LLM-powered products — a $250,000 SAFE, $350,000 in partner cloud credits, advisor
-checkpoints, and a founder summit in Paris. It is a fund and program, not a software vendor: as of
-2026-08-05 it publishes no API, SDK, developer portal, or machine-readable specification.
+StemAI (Stem AI SAS) is a Paris-based accelerator and early-stage investment program for founders building LLM-powered products. Its stated thesis is that large language models are already capable enough to build great products today, so the program backs product and user experience rather than research breakthroughs. Each accepted company receives a $250,000 SAFE investment, $350,000 in partner cloud credits, recurring checkpoints with AI advisors, help accessing follow-on funding, and a founder summit hosted in Paris. The program is led by Nicolas Granatino, with a board that includes Mehdi Ghissassi (AI71) and Severine Gregoire (Zebox Ventures), and advisors in residence drawn from Hugging Face, Datadog, InstaDeep, Dust, Photoroom, Helsing, Nabla, QuantHouse and Parrot. StemAI is a private company whose shares are quoted on the secondary markets (Forge, Hiive, EquityZen). It publishes no API, SDK, developer portal or machine-readable specification of any kind.
 
-- Website: https://stemai.vc/
-- Apply: https://stemai.vc/apply
-- Secondary market listing: https://forgeglobal.com/stem-ai_stock/
+**Areas:** Company · Venture Capital · Accelerator · Artificial Intelligence · LLM · Startups · France · Investment
+
+## Stem AI on APIs.io
+
+Everything profiled for Stem AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/stem/](https://apis.io/providers/stem/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Stem Domain Security](https://apis.io/security/stem/stem-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://stemai.vc/)
+- [Sign up](https://stemai.vc/apply)
+- [Blog](https://stemai.vc/blog/)
+
+## API Evangelist rating
+
+**Kin Score 6.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 13.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/stem/](https://apis.io/providers/stem/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Stem AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/stem/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
